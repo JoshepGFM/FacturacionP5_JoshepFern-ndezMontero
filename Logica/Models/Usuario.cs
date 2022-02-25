@@ -12,17 +12,17 @@ namespace Logica.Models
 
         public int IDUsuario { get; set; }
 
-        public String Nombre { get; set; }
+        public string Nombre { get; set; }
 
-        public String NombreUsuario { get; set; }
+        public string NombreUsuario { get; set; }
 
-        public String Telefono { get; set; }
+        public string Telefono { get; set; }
 
-        public String CorreoDeRespaldo { get; set; }
+        public string CorreoDeRespaldo { get; set; }
 
-        public String Contrasennia { get; set; }
+        public string Contrasennia { get; set; }
 
-        public String Cedula { get; set; }
+        public string Cedula { get; set; }
 
         public bool Activo { get; set; }
 
